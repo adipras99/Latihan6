@@ -138,4 +138,4 @@ menu()
 
 Apabila kode program diatas dijalankan maka akan menghasilkan output seperti berikut.
 
-![gambar.1](pic/Screenshot (78).png)
+![gambar 1](pic/Screenshot1.png)
