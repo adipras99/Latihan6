@@ -139,3 +139,7 @@ menu()
 Apabila kode program diatas dijalankan maka akan menghasilkan output seperti berikut.
 
 ![gambar 1](pic/Screenshot1.png)
+![gambar 2](Pic/Screenshot2.png)
+![gambar 3](Pic/Screenshot3.png)
+![gambar 4](Pic/Screenshot4.png)
+
