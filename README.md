@@ -145,18 +145,18 @@ Apabila kode program diatas dijalankan maka akan menghasilkan output seperti ber
 
 
 
-![gambar 2](Pic/Screenshot2.png)
+![gambar 2](pic/Screenshot2.png)
 
 
 
 
 
 
-![gambar 3](Pic/Screenshot3.png)
+![gambar 3](pic/Screenshot3.png)
 
 
 
 
 
-![gambar 4](Pic/Screenshot4.png)
+![gambar 4](pic/Screenshot4.png)
 
